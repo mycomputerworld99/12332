@@ -794,7 +794,7 @@ progress {
         width: 100%;
     }
     .row-cols-sm-2 > * {
-        flex: 0 0 auto;
+        flex: auto;
         width: 30%;
     }
     .row-cols-sm-3 > * {
