@@ -7250,7 +7250,7 @@ fieldset:disabled .btn {
     border-radius: 50% !important;
 }
 .rounded-pill {
-    border-radius: 50rem !important;
+    border-radius: 0rem !important;
 }
 .rounded-top {
     border-top-left-radius: 0.25rem !important;
