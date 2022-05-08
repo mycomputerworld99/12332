@@ -7010,6 +7010,7 @@ fieldset:disabled .btn {
 }
 .fw-light {
     font-weight: 300 !important;
+    justify-content: space-between;
 }
 .fw-lighter {
     font-weight: lighter !important;
