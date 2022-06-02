@@ -7014,7 +7014,7 @@ fieldset:disabled .btn {
     font-style: normal !important;
 }
 .fw-light {
-    font-weight: 300 !important;
+    font-weight: 300!important padding: 0;
     justify-content: space-between;
 }
 .fw-lighter {
