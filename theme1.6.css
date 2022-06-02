@@ -198,7 +198,9 @@ strong {
 }
 .small,
 small {
-    font-size: 0.875em;
+    font-size: 14px;
+    color: #000000;
+    font-weight: 400;
 }
 .mark,
 mark {
