@@ -493,7 +493,7 @@ progress {
     }
 }
 .list-unstyled {
-    padding-left: 0;
+    padding-left: 8px;
     list-style: none;
 }
 .list-inline {
