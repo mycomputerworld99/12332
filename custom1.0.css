@@ -1,4 +1,0 @@
-
-ul#recent-postshas{list-style:none;margin:0;padding:0}li.recent-postshas{display:block;clear:both;overflow:hidden;list-style:none;border-bottom:1px solid #000000;word-break:break-word;padding:10px 0;margin:0;}
-li.recent-postshas:last-child{border-bottom:0;}
-li.recent-postshas a{color:#444;}li.recent-postshas a:hover{color:#444;text-decoration:underline}
