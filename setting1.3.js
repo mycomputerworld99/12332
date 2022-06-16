@@ -26,11 +26,6 @@
     }(document, new Date(), "script", "rating-widget.com/"));
 
 
-$(window).scroll(function() {
-    if($(window).scrollTop() == $(document).height() - $(window).height()) {
-           // ajax call and append data on DIV 
-           $("#rw-ui-container").html(ajaxData);
-    }
-});
+
 
 //]]>
